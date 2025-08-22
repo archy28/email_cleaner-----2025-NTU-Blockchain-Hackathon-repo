@@ -5,4 +5,6 @@ It is pretty hard to fully make use of the transparency and tracibility of data 
 
 The agent is set on https://app.virtuals.io/acp/agents, thanks for the sponsorship of $5 USDT from the host to all the teams participating in this hackathon. The agents include a buyer agent named after email requestor and a seller agent named after email summary.
 
+The experience enables me to learn about Ollama、Frp and ngrok, with some knowledge of server and tunnels.
+
 
