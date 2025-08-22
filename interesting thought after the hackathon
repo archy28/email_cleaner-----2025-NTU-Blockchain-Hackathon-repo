@@ -1,0 +1,5 @@
+is it possible to set up an agent and refine other agent(finetune the backend model) with the agent?
+
+Or maybe a better workflow for the involvement of students is setting up another agent for students' feedback on wrong data and set up a dataset for offline training?
+
+Privacy of emails? working emails may have potential risk of privacy.
